@@ -1,0 +1,8 @@
+{
+  "name": "Remix Beaver",
+  "description": "A web-based search and direct link viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

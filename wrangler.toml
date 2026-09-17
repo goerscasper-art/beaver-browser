@@ -1,0 +1,8 @@
+name = "beaver-browser"
+main = "worker.js"
+compatibility_date = "2024-03-20"
+
+# This configuration maps the Vite output folder to Cloudflare's native asset server.
+[assets]
+directory = "dist"
+binding = "ASSETS"
